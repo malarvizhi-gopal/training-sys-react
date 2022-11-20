@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "hari prasath",
+    "address": "bhavani",
+    "phoneNumber": "789456123",
+    "email": "hari@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "dayanidi",
+    "address": "salem",
+    "phoneNumber": "456123875343654",
+    "email": "daya@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "darun",
+    "address": "erode",
+    "phoneNumber": "5463182542",
+    "email": "daraun@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "shree",
+    "address": "bhavani",
+    "phoneNumber": "6485442525",
+    "email": "shree@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "ravi",
+    "address": "erode",
+    "phoneNumber": "3286554256",
+    "email": "ravi@email.com"
+  }
+]
